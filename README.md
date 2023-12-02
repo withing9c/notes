@@ -25,3 +25,9 @@ This quote emphasizes the importance of writing clean, well-structured, and easi
 
 # 2023-12-01
 - "Keep it simple, stupid!"
+
+# 2023-12-02
+- Today's programming wisdom is to be a lifelong learner and adapt to the ever-changing world of technology. This means staying up-to-date with the latest programming languages, tools, and techniques. By constantly learning and improving your skills, you will be able to better solve problems and create innovative solutions.
+
+One of the most important aspects of programming is problem-solving. When faced with a challenge, break it down into smaller, manageable tasks and use logic and creativity to find a solution. Always keep an open mind and be willing to try new approaches, as this will help you grow as a programmer. 
+ - 来自NLP
