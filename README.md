@@ -31,3 +31,6 @@ This quote emphasizes the importance of writing clean, well-structured, and easi
 
 One of the most important aspects of programming is problem-solving. When faced with a challenge, break it down into smaller, manageable tasks and use logic and creativity to find a solution. Always keep an open mind and be willing to try new approaches, as this will help you grow as a programmer. 
  - 来自NLP
+
+# 2023-12-03
+- "Keep it simple, stupid!"
