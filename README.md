@@ -93,3 +93,8 @@ Optimizing code before it's necessary can lead to complex, hard-to-maintain code
 
 # 2023-12-17
 - "Keep it simple, stupid!"
+
+# 2023-12-18
+- "Premature optimization is the root of all evil." - Donald Knuth. 
+
+Focus on writing clean, readable, and maintainable code first. Optimization should only be done after profiling and identifying performance bottlenecks.
