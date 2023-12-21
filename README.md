@@ -104,3 +104,6 @@ Focus on writing clean, readable, and maintainable code first. Optimization shou
 
 # 2023-12-20
 - "Keep it simple, stupid!"
+
+# 2023-12-21
+- Today's programming wisdom is to embrace the principle of "write readable code". Always remember that code is read more often than it is written. Strive for clarity and simplicity in your programming, using descriptive variable names, concise functions, and adequate comments. Avoid unnecessary complexity and strive to make your code easy to understand and maintain for both yourself and others. Remember, good code is not only about functionality, but also about communication and collaboration with fellow developers.
