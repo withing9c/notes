@@ -118,3 +118,6 @@ Remember to take breaks throughout the day to avoid burnout and maintain your fo
 
 First, prioritize your tasks. When you're working on a project, there will always be multiple things that need to get done. By identifying which tasks are most important and which can wait, you can make sure that you focus on the right things at the Right time. Use a task management tool, such as Trello or Asana, to keep track of your to-dos and make adjustments as needed. 
  ..Next, wisely plan you time ...
+
+# 2024-01-05
+- "Keep it simple, stupid!"
