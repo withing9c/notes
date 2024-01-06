@@ -121,3 +121,8 @@ First, prioritize your tasks. When you're working on a project, there will alway
 
 # 2024-01-05
 - "Keep it simple, stupid!"
+
+# 2024-01-06
+- "Today's programming wisdom is: 'Simplicity is the ultimate sophistication.' — Leonardo da Vinci. In software development, it implies that writing clean, straightforward code is often more valuable and maintainable than overly complex solutions. Strive to reduce complexity by breaking down problems into smaller, manageable parts, and favoring readability and modularity over unnecessary optimization or abstraction without due consideration." 
+
+Remember also that debugging, enhancing, and collaborating on simple code is generally easier and less error-prone. This principle aligns with the Unix philosophy and KISS (Keep It Simple, Stupid) principle, both of which encourage minimalism and clarity in design.
