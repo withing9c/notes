@@ -172,3 +172,10 @@ In essence, this quote emphasizes that striving to optimize code or performance 
 
 # 2024-01-18
 - Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, make a list of all the tasks you need to complete, then prioritize them based on their importance and deadlines. Next, allocate time for each task, taking into account the complexity and your own availability. Finally, use task management tools and versions control systems to keep your code organized and easy to maintain. Remember to take breaks and avoid multitasking, as it can lead to decreased efficiency and more mistakes. By following these tips, you will be able to better manage your workload and create high-quality software.
+
+# 2024-01-19
+- Today's programming wisdom is to be a lifelong learner, constantly updating your skills and knowledge in the field. This means staying up-to-date with the latest technologies, tools, and best practices. It also means being open to new ideas and approaches, as well as being willing to take risks and try new things.
+
+To be successful in programming, it' s essential to have a deep understanding of the fundamentals, such as data structures, algorithms, programming languages, software engineering, etc. These fundamentals will serve as a strong foundation for your career, allowing you to adapt to the ever-changing landscape of technology. 
+ 此外，培养良好的沟通和团队协作能力也是至关重要的。程序员经常需要与其他团队成员（如设计师、产品经理和测试人员）合作，因此有效的沟通技巧可以帮助您更好地理解他们的需求并提供高质量的代码。
+ 最后，保持耐心和毅力是成功的关键。编程可能会很具挑战性，但通过不断学习和实践，您将能够克服这些挑战并成为该领域的专家。总之，今天的智慧是成为一名终身学习者，不断更新您的技能，并培养沟通、团队协作和耐心等基本素质。
